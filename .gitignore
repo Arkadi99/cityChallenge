@@ -1,0 +1,7 @@
+/node_modules
+/public/images/avatars
+/public/images/photos
+/public/images/previews
+/public/images/reviews
+/public/images/complaints
+/.env
